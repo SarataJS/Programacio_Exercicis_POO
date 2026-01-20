@@ -1,0 +1,29 @@
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.AssemblyInfo.cs
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.sourcelink.json
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.exe
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.deps.json
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.runtimeconfig.json
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.dll
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.pdb
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.dll
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\refint\TreallAmbPunts.dll
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.pdb
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.genruntimeconfig.cache
+C:\Users\Samsung\Documents\1-DAW\ENTORNS DE DESENVOLUPAMENT\A2.2.2 Llibreries\a2-2-2-proves-unitaries-libmates-SarataJS\LibMatesPro\POO\TreallAmbPunts\obj\Debug\net9.0\ref\TreallAmbPunts.dll
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.exe
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.deps.json
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.runtimeconfig.json
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.dll
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\bin\Debug\net9.0\TreallAmbPunts.pdb
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.AssemblyInfoInputs.cache
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.AssemblyInfo.cs
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.dll
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\refint\TreallAmbPunts.dll
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.pdb
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\TreallAmbPunts.genruntimeconfig.cache
+C:\Users\Samsung\Documents\1-DAW\PROGRAMACIÓ\POO\TreallAmbPunts\obj\Debug\net9.0\ref\TreallAmbPunts.dll
